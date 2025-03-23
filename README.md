@@ -6,7 +6,8 @@ This repository contains 9 fundamental digital design implementations using Veri
 
 Each folder contains the corresponding Verilog source code along with testbenches.
 
- Included Modules:
+ **Included Modules:**
+ 
 1️ Frequency Divider - Reduces the clock frequency for timing control.
 
 2️ JK Flip-Flop using SR Flip-Flop - Implements a JK Flip-Flop using SR Flip-Flop logic.
